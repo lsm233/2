@@ -1,0 +1,49 @@
+{
+  "pages":[
+    "pages/shouye/shouye",
+    "pages/jinan/jinan",
+    "pages/dezhou/dezhou",
+    "pages/taishan/taishan",
+    "pages/sankong/sankong"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "好客山东欢迎您",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "color":"#00f",
+    "list":[
+      {
+        "pagePath":"pages/shouye/shouye",
+        "text":"首页",
+        "iconPath":"/images/首页 (1).png",
+        "selectedIconPath":"/images/首页.png"
+      },
+      {
+        "pagePath":"pages/jinan/jinan",
+        "text":"泉城",
+        "iconPath":"/images/济南 (1).png",
+        "selectedIconPath":"/images/济南.png"
+      },
+      {
+        "pagePath":"pages/dezhou/dezhou",
+        "text":"德州",
+        "iconPath":"/images/德州 (1).png",
+        "selectedIconPath":"/images/德州.png"
+      },
+      {
+        "pagePath":"pages/taishan/taishan",
+        "text":"泰山",
+        "iconPath":"/images/泰山 (1).png",
+        "selectedIconPath":"/images/泰山.png"
+      },
+      {
+        "pagePath":"pages/sankong/sankong",
+        "text":"三孔",
+        "iconPath":"/images/三孔 (1).png",
+        "selectedIconPath":"/images/三孔.png"
+      }
+    ]
+  }
+}
